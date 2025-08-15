@@ -1,5 +1,3 @@
-# OL-25-LP-006
-A Stream lit app made by me on the analysis of mental health wellness of the tech workers backed by the OSMI dataset of 2014.
 # 🌊 MindSurf: Riding the Waves of Mental Wellness in Tech 🧠💙
 
 Welcome aboard **MindSurf**, a data-driven voyage into the mental wellness seas of the tech industry.  
