@@ -6,3 +6,13 @@ seaborn
 scikit-learn
 joblib
 plotly
+XGBOOST
+LinearRegression
+LogisticRegression
+Catboost
+RandomForestClassifier
+ElasticNet
+Agglomerative Clustering
+DBSCAN
+Kmean
+
